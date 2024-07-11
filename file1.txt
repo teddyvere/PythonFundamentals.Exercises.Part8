@@ -1,0 +1,8 @@
+test_file_reader.py
+tree.py
+file1.txt
+file_reader.py
+my_awesome_file.txt
+README.md
+.gitignore
+locked_out_file.txt
